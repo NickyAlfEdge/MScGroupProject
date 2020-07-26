@@ -1,0 +1,98 @@
+.gradeField {
+    display: flex;
+    flex-direction: row;
+    border: 1px solid grey;
+    max-width: 130px;
+}
+
+.editGrade {
+    display: flex;
+    flex-direction: row;
+    border: 1px solid grey;
+    width: 130px;
+}
+
+.markField {
+    display: flex;
+    flex-direction: row;
+    width: 180px;
+}
+
+.studentTable .fas {
+    font-size: large;
+}
+
+.gradeField .btn:hover, .editGrade .btn:hover {
+    border-radius: 0;
+    background-color: #c2bfca;
+    color: white;
+}
+
+.colSearch {
+    border: none;
+}
+
+.studentGradeTable .badge {
+    padding: 10px;
+}
+
+.markField .edit {
+    visibility: hidden;
+    background-color: white;
+}
+
+.criterion .edit, .criteria .edit {
+    visibility: hidden;
+    background-color: white;
+}
+
+.markField .grade {
+    alignment: center;
+    align-self: center;
+    text-align: center;
+    background-color: white;
+    border: none;
+    width: 130px;
+}
+
+.markField:hover .btn {
+    visibility: visible;
+}
+
+.criterion:hover .btn, .criteria:hover .btn {
+    visibility: visible;
+}
+
+.studentGradeTable .fa-check {
+    color: green;
+}
+
+.studentGradeTable .fa-times {
+    color: red;
+}
+
+.studentGradeTable {
+    text-align: center;
+}
+
+.studentTable {
+    text-align: center;
+}
+
+.criterion {
+    font-weight: bold;
+    text-align: left;
+    width: 160px;
+}
+
+.criteria {
+    text-align: justify;
+}
+
+.criterionButtons {
+    margin: auto auto;
+    align-content: center;
+    align-items: center;
+    horiz-align: center;
+    text-align: center;
+}

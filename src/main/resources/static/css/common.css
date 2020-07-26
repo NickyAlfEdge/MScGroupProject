@@ -1,0 +1,23 @@
+ul.nav.nav-treeview {
+    padding-left: 1rem;
+}
+
+.card-title {
+    font-size: 2rem;
+}
+
+#logoutBtn {
+    cursor: pointer;
+}
+
+#createUser {
+    margin-bottom: 15px;
+}
+
+.studentGroupList {
+    text-align: center;
+}
+
+.studentPreferenceForm .form-group {
+    align-content: center;
+}
