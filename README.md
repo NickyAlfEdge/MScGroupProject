@@ -1,4 +1,5 @@
 # ProjectManagementWebsite
+MSc SSIT Group Project module assignment, attained a grade of 77%
 
 ## Test Account
 - student account: student@gmail.com, password: 112233; 
