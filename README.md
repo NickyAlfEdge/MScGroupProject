@@ -2,13 +2,13 @@
 MSc SSIT Group Project module assignment, attained a grade of 77%.
 
 - For this project we were tasked to develop a functional Blackboard alternative for the University, in doing so we explored key functionality such as:
-  -- User Control/Authentication
-  -- Cloud Infrastructure and Databases
-  -- Model View Controllers
-  -- Template Management
-  -- Team Management
-  -- Project Management
-  -- Agile Methodology Concepts, SCRUM, KanBan Boards, Weekly Sprints and Client Driven Story Cards
+  - User Control/Authentication
+  - Cloud Infrastructure and Databases
+  - Model View Controllers
+  - Template Management
+  - Team Management
+  - Project Management
+  - Agile Methodology Concepts, SCRUM, KanBan Boards, Weekly Sprints and Client Driven Story Cards
 
 ## Test Account
 - student account: student@gmail.com, password: 112233; 
