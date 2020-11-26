@@ -2,6 +2,7 @@
 MSc SSIT Group Project module assignment, attained a grade of 77%.
 
 - For this project we were tasked to develop a functional Blackboard alternative for the University, in doing so we explored key functionality such as:
+
   - User Control/Authentication
   - Cloud Infrastructure and Databases
   - Model View Controllers
